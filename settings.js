@@ -8,12 +8,12 @@ Join Untuk Menggunakan Bot
 const fs = require('node:fs');
 
 const config = {
-    owner: ["6282181938329", "62895326884022"],
-    name: "~ Devolution",
+    owner: ["6282353035070"],
+    name: "Nasirxml",
     sessions: "Devo-Sessions",
     sticker: {
-      packname: "Devolution",
-      author: "Selxyzz"
+      packname: "Bot WhatsApp",
+      author: ""
     },
     apikey: "5SdBTI3hMfDFIOZxJ7",
     apikeyPrem: "pasonki23",
